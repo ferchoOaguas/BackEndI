@@ -1,0 +1,6 @@
+[2024-05-21 21:28:27] [ INFO ] [ListaOdontologoDAO:15] Odontólogo guardado: odontologo{numeroMatricula=1, nombre='Juan', apellido='Perez'}
+[2024-05-21 21:28:27] [ INFO ] [ListaOdontologoDAO:15] Odontólogo guardado: odontologo{numeroMatricula=2, nombre='Ana', apellido='Gomez'}
+[2024-05-21 21:28:27] [ INFO ] [ListaOdontologoDAO:20] Listado de todos los odontólogos: [odontologo{numeroMatricula=1, nombre='Juan', apellido='Perez'}, odontologo{numeroMatricula=2, nombre='Ana', apellido='Gomez'}]
+[2024-05-21 21:28:27] [ INFO ] [ListaOdontologoDAO:15] Odontólogo guardado: odontologo{numeroMatricula=1, nombre='Juan', apellido='Perez'}
+[2024-05-21 21:28:27] [ INFO ] [ListaOdontologoDAO:15] Odontólogo guardado: odontologo{numeroMatricula=2, nombre='Ana', apellido='Gomez'}
+[2024-05-21 21:28:27] [ INFO ] [ListaOdontologoDAO:20] Listado de todos los odontólogos: [odontologo{numeroMatricula=1, nombre='Juan', apellido='Perez'}, odontologo{numeroMatricula=2, nombre='Ana', apellido='Gomez'}]
